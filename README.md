@@ -9,11 +9,9 @@ Em um mundo conectado e globalizado, a geolocalização se torna cada vez mais e
 ## 🛠 **Especificações Técnicas**
 
 - **Node.js**: Versão 20 ou superior.
-- **Banco de Dados**: Mongo 7+.
-- **ORM**: Mongoose / Typegoose.
 - **Linguagem**: Typescript.
 - **Formatação e Linting**: Eslint + prettier.
-- **Comunicação com MongoDB**: Deve ser feita via container.
+- **Comunicação com Banco de Dados**: Deve ser feita via container.
 
 ## 🔍 **Funcionalidades Esperadas**
 
